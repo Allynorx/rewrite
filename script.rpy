@@ -105,5 +105,5 @@ label start:
         e "Aparentemente todo esta llendo de maravilla, el poder hablar y conectar con alguien es asombroso. Me pregunto que tipo de historias
         nos esperan"
 
-        e ""
+        e "a"
         return
